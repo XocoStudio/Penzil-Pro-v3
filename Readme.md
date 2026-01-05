@@ -89,3 +89,20 @@ El **Canvas** es tu espacio de trabajo tridimensional:
 Este libro no solo enseña a usar Penzil Pro, sino que te ayuda a **pensar en 3D mientras dibujas**. Es una guía práctica, clara y visual para artistas que quieren llevar su proceso creativo al siguiente nivel.  
 
 👉 **Descúbrelo aquí:** [https://github.com/XocoStudio/Book-Penzil-Pro](https://github.com/XocoStudio/Book-Penzil-Pro)
+
+
+# Herramientas (dibujo / boceto 3D)
+
+## 🎨 Sketch & 3D Concept Tools
+- [Feather – Dibuja en 3D](https://apps.apple.com/es/app/feather-dibuja-en-3d/id6737254232?utm_source=chatgpt.com) – App principal de sketch 3D, disponible en iPad.  
+- [uMake](https://thenetuse.com/the-best-3d-software-for-ipad-design-sculpt-and-create-anywhere/?utm_source=chatgpt.com) – Bocetos y dibujo en 3D para diseño conceptual.  
+- [Nomad Sculpt](https://choesinfo.com/best-3d-modeling-mobile-apps-for-creative-design/?utm_source=chatgpt.com) – Escultura y modelado 3D táctil (iOS/Android).  
+- [Gravity Sketch](https://www.affde.com/es/3d-design-sketch-mobile-apps.html?utm_source=chatgpt.com) – Diseño y bocetos 3D, también compatible con VR y tabletas.  
+
+## 🛠️ Otras opciones de modelado y escultura 3D
+- [Sculptura](https://www.facfox3d.com/news/best-apps-for-3d-sculpting-on-ipad-android-50757242.html?utm_source=chatgpt.com) – Escultor 3D para iPad con varias herramientas de pincel.  
+- [d3D Sculptor](https://fjzamannart.com/d3d-sculptor-android-apk-modelado-escultura-pintura-3d/?utm_source=chatgpt.com) – Modelado/escultura 3D móvil para Android.  
+
+## 🖥️ Software complementario (PC/Mac)
+- [Blender + Grease Pencil](https://www.reddit.com/r/ArtistLounge/comments/1oou8qn/help_finding_app_similar_to_feather_3d/?utm_source=chatgpt.com) – Dibujo 2D/3D sobre escenas 3D, potente para animación y bocetos conceptuales.
+
