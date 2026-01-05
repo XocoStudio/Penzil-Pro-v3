@@ -95,7 +95,7 @@ Este libro no solo enseña a usar Penzil Pro, sino que te ayuda a **pensar en 3D
 
 ## 🎨 Sketch & 3D Concept Tools
 - [Feather – Dibuja en 3D](https://apps.apple.com/es/app/feather-dibuja-en-3d/id6737254232) – App principal de sketch 3D, disponible en iPad.  
-- [uMake](https://www.umake.com/).com) – Bocetos y dibujo en 3D para diseño conceptual.  
+- [uMake](https://www.umake.com/) – Bocetos y dibujo en 3D para diseño conceptual.  
 - [Nomad Sculpt](https://nomadsculpt.com/) – Escultura y modelado 3D táctil (iOS/Android).  
 - [Gravity Sketch](https://gravitysketch.com/) – Diseño y bocetos 3D, también compatible con VR y tabletas.  
 
