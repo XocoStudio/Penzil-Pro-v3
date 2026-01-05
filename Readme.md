@@ -134,7 +134,7 @@ Este libro no solo enseña a usar Penzil Pro, sino que te ayuda a **pensar en 3D
 - **Vermeer’s Lens** – Exploración artística en realidad aumentada.
 
 ### 📲 Modelado 3D desde AR/Móvil
-- **SketchAR** – Dibujo y modelado asistido con AR; convierte bocetos reales en 3D.
+- **SketchAR** https://sketchar.io/ – Dibujo y modelado asistido con AR; convierte bocetos reales en 3D.
 
 ---
 
