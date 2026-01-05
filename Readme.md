@@ -106,3 +106,61 @@ Este libro no solo enseña a usar Penzil Pro, sino que te ayuda a **pensar en 3D
 ## 🖥️ Software complementario (PC/Mac)
 - [Blender + Grease Pencil](https://www.blender.org) – Dibujo 2D/3D sobre escenas 3D, potente para animación y bocetos conceptuales.
 
+# 🌐 Herramientas de Diseño, Arte y Modelado 3D en XR/VR
+
+---
+
+## 🎨 Modelado 3D, Escultura y Prototipado en VR/AR
+
+### 🛠️ Colaborativas / Prototipado Espacial
+- **ShapesXR** – Diseño 3D colaborativo en realidad virtual, muy usado para prototipos UX/UI y entornos.  
+- **ShapeLab** – Espacio creativo para modelar y jugar con formas en VR.  
+- **Unbound** – Plataforma de creación social en VR con herramientas de modelado y entornos compartidos.
+
+### 🧠 Modelado y Escultura 3D Detallado
+- **Meta Gravity Sketch** – Modelado 3D libre en VR (forma orgánica y hard-surface).  
+- **Adobe Substance 3D Modeler** – Escultura intuitiva en VR con enfoque profesional.  
+- **Masterpiece Studio / Masterpiece VR** – Escultura y modelado 3D colaborativo.  
+- **SculptrVR** – Modelado tipo voxel, creativo y accesible.
+
+---
+
+## 🖌️ Arte, Pintura y Creación Visual en XR
+
+### 🎨 Pintura y Dibujo 3D
+- **Tilt Brush / Open Brush** – Pintura en 3D inmersiva.  
+- **HoloPaint** – Pintura y dibujo en entornos mixtos/AR.  
+- **World Brush** – Pintura en el mundo real con AR, creando arte flotante anclado al espacio.  
+- **Vermeer’s Lens** – Exploración artística en realidad aumentada.
+
+### 📲 Modelado 3D desde AR/Móvil
+- **SketchAR** – Dibujo y modelado asistido con AR; convierte bocetos reales en 3D.
+
+---
+
+## 🎮 Art & VR en Consolas / Plataformas Específicas
+
+### 🕹️ PlayStation VR / PS VR2
+- **Cool Paint VR** (WildBit Studios, España) – Pintura y arte en VR con herramientas creativas y estilos visuales llamativos.
+
+---
+
+## 🌀 Herramientas Relacionadas / Complementarias
+- **Arkio** – Diseño espacial y arquitectura colaborativa en VR/MR.  
+- **Figmin XR** – Importación de modelos 3D y dibujo/interacción en AR.  
+- **SimLab VR para SketchUp / Blender VR viewers** – Visualiza y recorre tus modelos tradicionales en VR.
+
+---
+
+## 📌 Cómo elegir según tu objetivo
+
+| Objetivo principal                  | Herramientas recomendadas                             |
+|------------------------------------|-------------------------------------------------------|
+| **Prototipado UX/UI en VR**        | ShapesXR, ShapeLab                                    |
+| **Modelado 3D profesional en VR**  | Gravity Sketch, Adobe Modeler, Masterpiece           |
+| **Arte y pintura inmersiva**       | Tilt/Open Brush, HoloPaint, World Brush              |
+| **AR Dibujo y trazado en el mundo real** | SketchAR, World Brush                             |
+| **Experiencias sociales/creativas VR** | Unbound, Arkio                                    |
+| **Arte VR en consola**             | Cool Paint VR (PS VR/PS VR2)                         |
+
+
